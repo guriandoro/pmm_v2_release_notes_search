@@ -18,6 +18,7 @@ There are two ways to run it:
 shell> python3 crawl_pmmv2_releases.py "prometheus query builder"
 Crawling page: https://docs.percona.com/percona-monitoring-and-management/release-notes/2.41.2.html
 Crawling page: https://docs.percona.com/percona-monitoring-and-management/release-notes/2.41.1.html
+[...]
 ```
 
 2- Run without parameters, and reply to the prompt:
