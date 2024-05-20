@@ -36,6 +36,6 @@ Some outputs can be supressed by sending stderr to /dev/null. This will only pri
 
 ```
 shell> python3 crawl_pmmv2_releases.py "prometheus query builder" 2>/dev/null
-=> Keyword 'prometheus query builder' found on page: https://docs.percona.com/percona-monitoring-and-management/release-notes/2.31.0.html
+=> Keyword found on page: https://docs.percona.com/percona-monitoring-and-management/release-notes/2.31.0.html
 
 ```
